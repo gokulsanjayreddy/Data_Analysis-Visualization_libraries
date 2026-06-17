@@ -1,0 +1,12 @@
+Interpolation is a method that replaces the missing values with an estimated value 
+-> It preserves datta integrity
+-> smooth trends 
+-> avoids data loss 
+
+In a data of 1 2 nan 4 5 6 
+If method 'linear' is applied then it fills with a value of 3 
+
+USE CASES OF INTERPOLATION
+-> time series data
+-> numeric data with trends
+-> To avoid dropping rows

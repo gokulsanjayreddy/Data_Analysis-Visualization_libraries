@@ -1,0 +1,7 @@
+Common aggregation values -
+sum() - adds all terms in a group 
+mean() - takes avg of a grp 
+count() - counts non null values in a grp 
+min() - minimum value in a grp 
+max() - maximum value in a grp 
+std() - standard deviation of a group 

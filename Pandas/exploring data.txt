@@ -1,0 +1,42 @@
+TO UNDERSTAND DATA -
+1 - understand the data set
+2 - identify the problems in the data
+3 - plan next steps to solve
+PROBLEMS -
+1 - How many rows or columns in the data 
+2 - what is the data type 
+3 - what is the missing data 
+      |
+      |
+     \ /
+    info() solves this problems
+IT GIVES -
+1 - no of rows and columns 
+2 - names of columns 
+3 - data type - int float str object etc..(gives info about each column and the data type it contains)
+4 - non  null counts (missing data)
+5 - memory usage of the dataset
+
+STATISTICAL INFO - 
+df.decribe() ---> gives the statistical information about all the data
+-----> It give the data like 25%,50% and 75% which are quartiles (1/4 th of the total sorted data)
+                                                |
+                                                |
+                                                \/
+                                                this can be used to find what seperates the others from the minimum 25%  OR top 75%
+
+BEFORE MANUPULATING OR ANALYZING WE SHOULD FIND- 
+1 - how big is the data set 
+2 - what are the names of the columns
+            |
+            |
+            \/
+            to analyze these we use shape and columns
+
+WHILE WORKING WITH DATA WE SHOULD KNOW THESE -
+1 - select specific column 
+2 - filter rows 
+3 - apply multiple conditions to filter 
+
+for selecting columns - square brackets 
+for filtering rows    - boolean conditions 
