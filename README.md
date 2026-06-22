@@ -4,15 +4,15 @@ This repository is a central hub for my ongoing practice, study notes, and code 
 
 ## 📂 Repository Structure
 
-The repository is organized by library, with each directory containing its own set of notes (`.txt`) and implementation examples (`.py`):
+The repository is organized by library, with each directory containing its own set of notes (`.md`) and implementation examples (`.py`):
 
 ```text
 Data_Analysis-Visualization_libraries/
 ├── Pandas/                # Data manipulation and cleaning workflows
-│   ├── pandas_notes.txt
+│   ├── pandas_notes.md
 │   └── examples.py
 ├── numpy/                 # Numerical computing and array operations
-│   ├── numpy_notes.txt
+│   ├── numpy_notes.md
 │   └── examples.py
 └── README.md
 
