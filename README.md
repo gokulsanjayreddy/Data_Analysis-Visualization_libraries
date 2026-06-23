@@ -20,7 +20,7 @@ Data_Analysis-Visualization_libraries/
 ├── mplib/                      # Data visualization with Matplotlib
 │   ├── matplotlib_notes.md
 │   └── examples.py
-│
+│   
 └── README.md
 ```
 
