@@ -4,7 +4,7 @@
 
 ---
 
-## 🗂️ Repository Structure 
+## 🗂️ Repository Structure
 
 ```
 Data_Analysis-Visualization_libraries/
