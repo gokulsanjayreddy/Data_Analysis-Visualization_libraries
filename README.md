@@ -105,6 +105,6 @@ This is a personal learning repository, but feedback and suggestions are welcome
 
 ---
 
-*Visit  @[portfolio](https://github.com/gokulsanjayreddy)*
+*Visit  @[profile](https://github.com/gokulsanjayreddy)*
 
 ---
