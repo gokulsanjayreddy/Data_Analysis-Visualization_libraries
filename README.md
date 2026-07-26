@@ -105,6 +105,6 @@ This is a personal learning repository, but feedback and suggestions are welcome
 
 ---
 
-*Visit my profile  @[Chatrala Gokul sanjay reddy](https://github.com/gokulsanjayreddy)*
+*Visit my profile  @[Chatrala Gokul sanjay reddy](https://gokulsanjayreddy.github.io/)*
 
 ---
