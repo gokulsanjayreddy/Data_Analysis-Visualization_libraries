@@ -20,6 +20,20 @@ Data_Analysis-Visualization_libraries/
 ├── mplib/                      # Data visualization with Matplotlib
 │   ├── matplotlib_notes.md
 │   └── examples.py
+│
+├── seaborn/                    # Statistical data visualization with Seaborn
+│   ├── seaborn_notes.md        # Concept notes and quick reference
+│   ├── datasets/               # Practice datasets (tips, flights, titanic)
+│   ├── scatterplot.ipynb       # 2D continuous relationships & styling
+│   ├── stripplot_and_swarmplot.ipynb # Categorical scatter plots (jitter & beeswarm)
+│   ├── boxplot.ipynb           # Five-number summary & outlier detection
+│   ├── violinplot.ipynb        # Kernel density + boxplot distributions
+│   ├── barplot_and_countplot.ipynb # Statistical estimates & frequency counts
+│   ├── heatmap.ipynb           # 2D correlation & pivot matrix plots
+│   ├── clustermap.ipynb        # Hierarchical clustering dendrograms
+│   ├── jointplot.ipynb         # Bivariate & marginal distributions
+│   ├── pairplot.ipynb          # Multi-variate pairwise relationship grids
+│   └── distplot.ipynb          # Univariate histograms, KDE curves & rug plots
 │   
 └── README.md
 ```
@@ -60,6 +74,18 @@ Covers creating clear, customizable visualizations from raw data.
 - Saving and exporting figures
 - Combining with Pandas/NumPy for end-to-end plotting
 
+### Seaborn (`seaborn`)
+Covers statistical data visualization built on top of Matplotlib and tightly integrated with Pandas DataFrames (based on CampusX playlist curriculum).
+
+**Key topics:**
+- Relational plots (Scatter plots with hue, style, and size)
+- Categorical scatter plots (Stripplots with jitter and Swarmplots)
+- Distribution plots across categories (Boxplots, IQR analysis, and Violinplots)
+- Statistical aggregation plots (Barplots with confidence intervals and Countplots)
+- Matrix plots (Correlation heatmaps, pivot tables, and hierarchical clustermaps)
+- Multi-variable relationship plots (Jointplots and pairwise Pairplots)
+- Univariate distribution plots (Histplots, KDE density curves, and rug plots)
+
 ---
 
 ## ⚙️ Prerequisites & Setup
@@ -67,7 +93,7 @@ Covers creating clear, customizable visualizations from raw data.
 Make sure you have **Python 3.8+** installed. Then install the required libraries:
 
 ```bash
-pip install pandas numpy matplotlib jupyter
+pip install pandas numpy matplotlib seaborn jupyter
 ```
 
 ### Clone the Repository
